@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paiqueexah.darshshah.org/sitemap.xml
